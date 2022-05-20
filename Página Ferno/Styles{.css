@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nanum+Gothic&family=Ubuntu:wght@300&display=swap');
+
+body{
+    background: url(Imagenes/Isaac_BG1.png);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.container{
+    border-color: rgb(22, 22, 22);
+    background-color: rgb(22, 22, 22);
+    width: 90%;
+    size-adjust: 80%;
+    margin-right: auto;
+    margin-left: 5%;
+}
+.page-heater_title{
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 25px;
+    margin-right: 25px;
+    color: whitesmoke;
+}
+.page-contain_body{
+    font-family: 'Nanum Gothic', sans-serif ;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 90%;
+    justify-content: center;
+    color: whitesmoke;
+}
+.mw-headline{
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-left: 25px;
+    margin-right: 25px;
+    color: whitesmoke;
+}
+.p1{
+    font-family: 'Nanum Gothic', sans-serif ;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 90%;
+    justify-content: center;
+    color: whitesmoke;
+}
+.nav_font{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+}
+
+.toc {
+    background-color: transparent;
+    border: 1px solid var(--theme-border-color);
+    border-radius: 3px;
+    font-size: 100%;
+    margin: 24px auto 24px 0;
+    padding: 0;
+}
+.toc .toctitle h2 {
+    border: 0;
+    color: var(--theme-page-text-color);
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: 500;
+    line-height: 1.25;
+    margin: 0;
+    padding: 0;
+}
+.slide{
+    margin-top: 0px;
+}
+.caro_txt{
+    color:black;
+    font-size: 40px;
+}
+.caro_txtw{
+    color:whitesmoke;
+    font-size: 40px;
+}
+
+.card-text{
+    display: flex;
+    margin-right: 25px;
+}
+.Parrafo-card{
+    margin-right: 0px;
+}
